@@ -1,0 +1,33 @@
+.initial{
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 6rem;
+}
+
+.text-area-texts{
+  margin-bottom: 4.8rem;
+}
+
+.text-area-apresentation{
+  margin-bottom: 3.2rem;
+}
+
+.apresentation-small{
+  font-weight: 500;
+  color: var(--white);
+  margin-bottom: 1.2rem;
+}
+
+.apresentation-name{
+  font-weight: 400;
+  font-size: 4.8rem;  
+}
+
+.text-area-occupation{
+  color: var(--white);
+  font-weight: 400;
+}
+.initial-img{
+  max-width: 50rem;
+}
+

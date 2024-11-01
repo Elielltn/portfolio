@@ -1,0 +1,15 @@
+.projects {
+  flex-direction: column;
+}
+
+.projects-title {
+  font-weight: 400;
+  font-size: 3.2rem;
+  text-align: center;
+}
+
+.projects-cards{
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 3.2rem;
+  row-gap: 6.4rem;
+}

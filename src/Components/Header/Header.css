@@ -1,0 +1,14 @@
+.logo-style{
+  font: 400 2.4rem "Fira Code";
+}
+
+.header{
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 3.2rem;
+  border-bottom: 1px solid var(--dark-20);
+}
+
+.links-container{
+  gap: 5.8rem;
+}

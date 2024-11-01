@@ -1,0 +1,34 @@
+.project-card {
+  flex-direction: column;
+  gap: 3.2rem;
+}
+
+.img-placeholder {
+  align-items: center;
+  justify-content: center;
+  height: 20rem;
+  max-width: 59.2rem;
+  width: 100%;
+  border: 1px solid var(--dark-30);
+  border-radius: .4rem;
+}
+
+.project-details {
+  flex-direction: column;
+  gap: 2.4rem;
+}
+
+.project-name {
+  color: var(--white);
+  font-weight: 500;
+}
+
+.project-tecnologies {
+  color: var(--brand-color);
+  font-weight: 500;
+  font-size: 1.8rem;
+}
+
+.card-buttons{
+  gap: 3.2rem;
+}

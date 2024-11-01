@@ -1,0 +1,16 @@
+.info-card{
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+}
+
+.info-card-title{
+  font-size: 2rem;
+  color: var(--white);
+}
+
+.info-card-para{
+  font-size: 1.8rem;
+  color: var(--white);
+}
+
