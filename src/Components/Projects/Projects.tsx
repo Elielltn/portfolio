@@ -2,7 +2,7 @@ import "./Projects.css"
 import ProjectCard from "../ProjectCard/ProjectCard";
 const Projects = () => {
   return (
-    <div className="projects flex">
+    <div className="projects flex margin-bottom-lg">
       <h2 className="projects-title margin-bottom-sm">Projetos</h2>
       <div className="projects-cards grid">
         <ProjectCard nome="Nome do projeto" tecs="React"></ProjectCard>

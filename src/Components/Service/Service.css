@@ -1,0 +1,6 @@
+.service{
+  max-width: 38.4rem;
+  height: 24rem;
+  border: 1px solid var(--dark-30);
+  padding: 3.8rem 4rem;
+}

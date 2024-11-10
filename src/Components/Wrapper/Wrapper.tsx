@@ -3,6 +3,7 @@ import Header from "../Header/Header";
 import Initial from "../Initial/Initial";
 import About from "../About/About";
 import Projects from "../Projects/Projects";
+import Services from "../Services/Services";
 const Wrapper = () => {
   return (
     <div className="wrapper">
@@ -10,6 +11,7 @@ const Wrapper = () => {
       <Initial></Initial>
       <About></About>
       <Projects></Projects>
+      <Services></Services>
     </div>
   );
 };
